@@ -6,7 +6,7 @@ Front-end Development:
     
 
   https://github.com/SanadAtia1/Project-2-CS351/blob/main/views/shop/index.ejs
-  ![alt text](http://url/to/img.png)
+  ![screenshot](http://url/to/img.png)
     
   shop.ejs/product-seeder.js
   https://imgur.com/QZ2uJ5T
