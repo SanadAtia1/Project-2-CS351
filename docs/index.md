@@ -6,7 +6,7 @@ Front-end Development:
   https://github.com/SanadAtia1/Project-2-CS351/blob/main/views/shop/index.ejs
   ![screenshot](https://imgur.com/ojFKGV9.jpg)
     
-  shop.ejs/product-seeder.js
+  shop.ejs/product-seeder.js ***one single page for products, not individual product pages
   ![screenshot](https://imgur.com/QZ2uJ5T.jpg)
   https://github.com/SanadAtia1/Project-2-CS351/blob/main/seed/product-seeder.js
     
