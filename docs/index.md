@@ -14,7 +14,7 @@ Front-end Development:
   ![screenshot](https://imgur.com/29uI3Lg.jpg)
   https://github.com/SanadAtia1/Project-2-CS351/blob/main/views/shop/cart.ejs
     
-  checkout.ejs
+  checkout.ejs ***trouble saving sequence to database, items don't go anywhere after clicking checkout
   ![screenshot](https://imgur.com/WAvDuO4.jpg)
   https://github.com/SanadAtia1/Project-2-CS351/blob/main/views/shop/checkout.ejs
     
