@@ -10,7 +10,7 @@ Front-end Development:
   ![screenshot](https://imgur.com/QZ2uJ5T.jpg)
   https://github.com/SanadAtia1/Project-2-CS351/blob/main/seed/product-seeder.js
     
-  cart.ejs
+  cart.ejs ***removing items from cart missing functionality
   ![screenshot](https://imgur.com/29uI3Lg.jpg)
   https://github.com/SanadAtia1/Project-2-CS351/blob/main/views/shop/cart.ejs
     
